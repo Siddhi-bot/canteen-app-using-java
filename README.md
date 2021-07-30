@@ -1,2 +1,2 @@
-# canteen-app-using-java
-in this, canteen is made of food
+# food-canteen-using-java
+in this,  food is ordered using java html,css files.
